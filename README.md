@@ -1,5 +1,7 @@
 # Architecture
 
 ## 1. Github settings
+    1. SSH config 
+## 2. Java Intellij Github integration
 
-## 2. Java Intellij settings
+## 3. VS Code for Java integration
